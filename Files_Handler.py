@@ -1,3 +1,4 @@
+######## http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html
 import time
 from watchdog.observers import Observer
 from watchdog.events import PatternMatchingEventHandler
