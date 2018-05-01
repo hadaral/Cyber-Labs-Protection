@@ -23,7 +23,7 @@ while ch == False:
         while not isValid:
             date1 = raw_input("please enter the first date in format : yyyy-mm-dd hh:mm ")  # check the format
             try:  # strptime throws an exception if the input doesn't match the pattern
-                datetime.datetime.strptime(date1, "%Y-%m-%d %H-%M")
+                datetime.datetime.strptime(date1, "%Y-%m-%d %H:%M")
                 isValid = True
             except:
                 print "Input doesn't match the pattern, try again!\n"
