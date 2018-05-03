@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-pid: 10579	name: oosplash		,2018-05-01 14:27:00
-pid: 10598	name: soffice.bin		,2018-05-01 14:27:00
-pid: 10621	name: gedit		,2018-05-01 14:28:00
-pid: 10643	name: gedit		,2018-05-01 14:29:00
-=======
-pid: 5537	name: oosplash	2018-04-25 18:16:49.112453
-pid: 5556	name: soffice.bin	2018-04-25 18:16:49.112479
->>>>>>> dbacb0ae8961affbaa2047dfe51a1f036ef4c5f2
+pid: 15309	name: gedit		,2018-05-02 00:04:00
+pid: 15269	name: oosplash		,2018-05-02 00:04:00
+pid: 15288	name: soffice.bin		,2018-05-02 00:04:00
+pid: 15323	name: gedit		,2018-05-02 00:05:00
